@@ -1,2 +1,2 @@
-# webDe
-portafolio web en aleman
+# https://jorgeduardo2111/Web-Portfolio/
+INGENIERO DE SISTEMAS
